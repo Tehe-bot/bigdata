@@ -1,13 +1,17 @@
 Run these commands in cmd: 
 
-python -m pip install --upgrade pip
+.\.myvenv\Scripts\activate
 
-pip install pywin32
+python -m pip install --upgrade pip
 
 pip install numpy
 
-pip install dxcam
+pip install pandas
 
-pip install kivy
+pip install matplotlib
 
-pip install keyboard
+pip install scikit-learn
+
+pip install flask
+
+python app.py
