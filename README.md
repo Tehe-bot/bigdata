@@ -1,5 +1,5 @@
 # How To Run
 ```
--pip install -r requirements.txt
+-pip install --user -r requirements.txt
 -python app.py
 ```
